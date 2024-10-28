@@ -12,19 +12,16 @@
     College = "Abes Engineering College "
     Technology = "MERN Stack"
     Fun_fact = "Yes, I do talk to my code in comments. It's a love language!"
-Hobbies = [
-		'Music',
-                'Chilling',
- 	        'Painting',
-		   'Sci-Fi Movies'
-			]
-	
-	def getCity():
+Hobbies = ['Music',
+  'Chilling',
+ 'Painting',
+'Sci-Fi Movies']
+def getCity():
 		return Hajipur_Bulandshahr_India()
 	
-	def Ambitions():
+def ambitions():
 		BecomeSoftwareEngineering()
-        def Achievements():
+ def achievements():
                   Technical_Coordinator():
                 Salaah_The_Mentor_Community
 	
