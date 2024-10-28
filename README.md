@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Radhika-chauhan
-- 👀 I’m interested in painting.
-- 🌱 I’m currently studying in ABES engineering college
-- 💞️ I’m from Bulandshahr.
-- 📫 you can reach through my linked in id.
-- www.linkedin.com/in/
-radhika-chauhan-2b4821296
+![Github Banner](banner.png)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Jaydeep;I+Love+C+Programming;An+Open+Source+Enthusiast;Full+Stack+Web+Developer;Loves+To+Build+Projects;A+Problem+Solver;">
+</p>
 
 
   
