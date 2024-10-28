@@ -45,3 +45,17 @@ Hobbies = [
 <a href="https://x.com/Radhikacha05"><img alt="Twitter" title="Radhika Chauhan Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 </p>
+
+<p align="center">
+    <a href="https://github.com/">
+        <img src="https://komarev.com/ghpvc/?username=Radhikaa-chauhan" alt="Radhikaa-chauhan" />
+    </a>
+    <a href="https://github.com/Radhikaa-chauhan">
+   
+        <img height="20" src="https://img.shields.io/github/followers/Radhikaa-chauhan?label=follow&logo=github" />
+	</a>
+	 <a href="https://github.com/Radhikaa-chauhan">
+        <img height="20" src="https://img.shields.io/github/stars/Radhikaa-chauhan?label=stars&logo=github" />
+	</a>
+</p>
+
