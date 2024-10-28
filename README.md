@@ -16,7 +16,7 @@ Hobbies = [
 		'Music',
                 'Chilling',
  	        'Painting',
-		'Sci-Fi Movies'
+		   'Sci-Fi Movies'
 			]
 	
 	def getCity():
@@ -24,6 +24,9 @@ Hobbies = [
 	
 	def Ambitions():
 		BecomeSoftwareEngineering()
+        def Achievements():
+                  Technical_Coordinator():
+                Salaah_The_Mentor_Community
 	
  ```
 
