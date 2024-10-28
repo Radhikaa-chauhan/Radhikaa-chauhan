@@ -5,11 +5,28 @@
 </p>
 
 
-  
-<!---
-Radhikaa-chauhan/Radhikaa-chauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ## Who Am I
+ ```python
+  class WhoAmI:
+    User = 'Radhika Chauhan'
+    College = "Abes Engineering College "
+    Technology = "MERN Stack"
+    Fun_fact = "Yes, I do talk to my code in comments. It's a love language!"
+Hobbies = [
+		'Music',
+   'Chilling',
+ 	'Painting',
+		'Sci-Fi Movies'
+			]
+	
+	def getCity():
+		return Hajipur_Bulandshahr_India()
+	
+	def Ambitions():
+		BecomeSoftwareEngineering()
+	
+ ```
+
 
 <div align="center">
 
@@ -18,8 +35,8 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Radhikaa-chauhan&theme=vue&hide_border=true)	
  <br/>
 </div> 
-            ## Connect with Me
-
+            
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/radhika-chauhan-2b4821296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "><img alt="Linkedin" title="Radhika Chauhan Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
