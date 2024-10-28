@@ -46,6 +46,7 @@ Hobbies = [
 
 </p>
 
+## Profile insights
 <p align="center">
     <a href="https://github.com/">
         <img src="https://komarev.com/ghpvc/?username=Radhikaa-chauhan" alt="Radhikaa-chauhan" />
