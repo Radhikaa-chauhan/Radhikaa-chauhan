@@ -5,7 +5,7 @@
 </p>
 
 
-  ## Who Am I
+  ## Who Am I ?
  ```python
   class WhoAmI:
     User = 'Radhika Chauhan'
@@ -14,8 +14,8 @@
     Fun_fact = "Yes, I do talk to my code in comments. It's a love language!"
 Hobbies = [
 		'Music',
-   'Chilling',
- 	'Painting',
+                'Chilling',
+ 	        'Painting',
 		'Sci-Fi Movies'
 			]
 	
