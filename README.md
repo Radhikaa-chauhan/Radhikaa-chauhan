@@ -51,8 +51,7 @@ Hobbies = [
         <img src="https://komarev.com/ghpvc/?username=Radhikaa-chauhan" alt="Radhikaa-chauhan" />
     </a>
     <a href="https://github.com/Radhikaa-chauhan">
-   
-        <img height="20" src="https://img.shields.io/github/followers/Radhikaa-chauhan?label=follow&logo=github" />
+    <img height="20" src="https://img.shields.io/github/followers/Radhikaa-chauhan?label=follow&logo=github" />
 	</a>
 	 <a href="https://github.com/Radhikaa-chauhan">
         <img height="20" src="https://img.shields.io/github/stars/Radhikaa-chauhan?label=stars&logo=github" />
