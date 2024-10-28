@@ -13,4 +13,4 @@ Radhikaa-chauhan/Radhikaa-chauhan is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radhikaa-chauhan&theme=default)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Radhikaa-chauhan&theme=vue&hide_border=true)
+<div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=Radhikaa-chauhan&theme=vue&hide_border=true)</div>
