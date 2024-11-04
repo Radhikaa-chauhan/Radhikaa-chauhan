@@ -26,7 +26,8 @@ def ambitions():
                return Salaah_The_Mentor_Community
 	
  ```
-
+[![An image of @radhikaachauhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/radhikaachauhan)](https://holopin.io/@radhikaachauhan)
+![](https://raw.githubusercontent.com/vn7n24fzkq/Radhikaa-chauhan/master/profile-summary-card-output/solarized/0-profile-details.svg)
 
 <div align="center">
 
@@ -62,5 +63,4 @@ def ambitions():
         <img height="20" src="https://img.shields.io/github/stars/Radhikaa-chauhan?label=stars&logo=github" />
 	</a>
 </p>
-[![An image of @radhikaachauhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/radhikaachauhan)](https://holopin.io/@radhikaachauhan)
-![](https://raw.githubusercontent.com/vn7n24fzkq/Radhikaa-chauhan/master/profile-summary-card-output/solarized/0-profile-details.svg)
+
