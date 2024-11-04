@@ -62,4 +62,4 @@ def ambitions():
         <img height="20" src="https://img.shields.io/github/stars/Radhikaa-chauhan?label=stars&logo=github" />
 	</a>
 </p>
-[![An image of @radhikaachauhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/radhikaachauhan)](https://holopin.io/@radhikaachauhan)
+[![An image of @radhikaachauhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/radhikaachauhan)]
