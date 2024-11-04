@@ -20,10 +20,10 @@ def getCity():
 		return Hajipur_Bulandshahr_India()
 	
 def ambitions():
-		BecomeSoftwareEngineering()
+		return BecomeSoftwareEngineering()
  def achievements():
                   Technical_Coordinator():
-                Salaah_The_Mentor_Community
+               return Salaah_The_Mentor_Community
 	
  ```
 
