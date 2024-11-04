@@ -10,7 +10,7 @@
   class WhoAmI:
     User = 'Radhika Chauhan'
     College = "Abes Engineering College "
-    Technology = "MERN Stack"
+    Technology = "Still Learning"
     Fun_fact = "Yes, I do talk to my code in comments. It's a love language!"
 Hobbies = ['Music',
   'Chilling',
