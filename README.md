@@ -21,9 +21,12 @@ def getCity():
 	
 def ambitions():
 		return BecomeSoftwareEngineering()
- def achievements():
+ def achievement1():
                   Technical_Coordinator():
                return Salaah_The_Mentor_Community
+def achievement2():
+                  Event_Coordinator():
+               return Geeks_For_Geeks_ABES_EC
 	
  ```
 [![An image of @radhikaachauhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/radhikaachauhan)](https://holopin.io/@radhikaachauhan)
