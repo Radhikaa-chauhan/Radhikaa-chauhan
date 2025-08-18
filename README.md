@@ -21,9 +21,6 @@ def getCity():
 	
 def ambitions():
 		return BecomeSoftwareEngineering()
- def achievement1():
-                  Technical_Coordinator():
-               return Salaah_The_Mentor_Community
 def achievement2():
                   Event_Coordinator():
                return Geeks_For_Geeks_ABES_EC
