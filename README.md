@@ -5,26 +5,6 @@
 </p>
 
 
-  ## Who Am I ?
- ```python
-  class WhoAmI:
-    User = 'Radhika Chauhan'
-    College = "Abes Engineering College "
-    Technology = "Still Learning"
-    Fun_fact = "Yes, I do talk to my code in comments. It's a love language!"
-Hobbies = ['Music',
-  'Chilling',
- 'Painting',
-'Sci-Fi Movies']
-def getCity():
-		return Hajipur_Bulandshahr_India()
-	
-def ambitions():
-		return BecomeSoftwareEngineering()
-def achievement2():
-                  Event_Coordinator():
-               return Geeks_For_Geeks_ABES_EC
-	
  ```
 [![An image of @radhikaachauhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/radhikaachauhan)](https://holopin.io/@radhikaachauhan)
 ![](https://raw.githubusercontent.com/vn7n24fzkq/Radhikaa-chauhan/master/profile-summary-card-output/solarized/0-profile-details.svg)
