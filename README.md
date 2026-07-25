@@ -1,4 +1,6 @@
-![Github Banner](banner.png)
+<p align="center">
+  <img src="./banner.gif" width="100%" alt="Banner">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Radhika;I+Love+Programming;An+Open+Source+Enthusiast;Front+End+Web+Developer;Loves+To+Build+Projects;A+Problem+Solver;">
