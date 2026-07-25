@@ -69,18 +69,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Radhikaa-chauhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikaa-chauhan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhikaa-chauhan&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhikaa-chauhan&theme=tokyo-night&hide_border=true" />
-</p>
+<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=Radhikaa-chauhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Radhikaa-chauhan&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhikaa-chauhan&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhikaa-chauhan&theme=tokyo-night&hide_border=true" /> </p>
 
 ---
 
