@@ -2,45 +2,104 @@
   <img src="./banner.gif" width="100%" alt="Banner">
 </p>
 
+<h1 align="center">Hi there, I'm Radhika Chauhan 👋</h1>
+
+<h3 align="center">Aspiring AI Engineer | Full-Stack Developer | Open Source Contributor</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Radhika;I+Love+Programming;An+Open+Source+Enthusiast;Front+End+Web+Developer;Loves+To+Build+Projects;A+Problem+Solver;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D8ECF&center=true&vCenter=true&width=600&lines=Building+AI-integrated+full-stack+apps;Open+Source+Contributor+%40+CircuitVerse;CS+Undergrad+%40+ABES+Engineering+College;Learning+in+public%2C+shipping+in+public" alt="Typing SVG" />
 </p>
 
-
- ```
-[![An image of @radhikaachauhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/radhikaachauhan)](https://holopin.io/@radhikaachauhan)
-![](https://raw.githubusercontent.com/vn7n24fzkq/Radhikaa-chauhan/master/profile-summary-card-output/solarized/0-profile-details.svg)
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radhikaa-chauhan&theme=default)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Radhikaa-chauhan&theme=vue&hide_border=true)	
- <br/>
-</div> 
-
-## Languages and Tools 
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-            
-## Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/radhika-chauhan-2b4821296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "><img alt="Linkedin" title="Radhika Chauhan Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Radhikaa-chauhan"><img alt="Github" title="Radhika Chauhan Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://www.instagram.com/_radhikaa5/"><img alt="Instagram" title="Radhika Chauhan Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://x.com/Radhikacha05"><img alt="Twitter" title="Radhika Chauhan Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
-
+  <a href="https://www.linkedin.com/in/radhika-chauhan-2b4821296"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/Radhikacha05"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.instagram.com/_radhikaa5/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:radhikachauhanrc1980@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-## Profile insights
+---
+
+### 🚀 About Me
+
+- 🎓 B.Tech in Computer Science, **ABES Engineering College** (2023 – 2027) — SGPA 9.7
+- 🌱 Currently deepening my skills in **AI engineering** — building LLM-integrated and agentic applications
+- 🛠️ Actively contributing to **[CircuitVerse](https://github.com/CircuitVerse)**, a digital logic simulator with 1.2k+ ⭐
+- 💻 Comfortable across the stack: **Next.js** on the frontend, **Node.js / Express** on the backend
+- 🧠 Exploring **LangGraph**, **Groq API**, and agentic AI workflows
+- 📫 Reach me at **radhikachauhanrc1980@gmail.com**
+
+---
+
+### 🏆 Open Source — CircuitVerse
+
+- Merged **5+ pull requests** into CircuitVerse across Ruby on Rails, JavaScript, and Vue.js — including Test Group Deletion, a Verilog Terminal fix, and a Two's Complement UI feature
+- Built **Windows Code Signing automation** using Signtool + GitHub Actions, and documented a `VITE_SIM_VERSION` fix to smooth the contributor onboarding experience
+- Served on the **Issue Triaging Team** for 3+ months, reviewing PRs, upholding contribution standards, and co-hosting weekly community meetings
+
+---
+
+### 🧩 Featured Projects
+
+**[Mergathon Dashboard](https://github.com/Radhikaa-chauhan)** — `Next.js` `TypeScript` `GitHub GraphQL API` `GitHub Actions` `Recharts`
+> Real-time analytics dashboard tracking 17 contributors, 112 merged PRs, and 1,019 issues across six CircuitVerse repos during a 10-day hackathon. Hourly ETL pipeline via GitHub Actions with multi-token rate-limit handling (370+ automated refreshes), and SSR + caching that cut main-thread scripting time by 99% (2.8s → 19ms).
+
+**[PingMD](https://github.com/Radhikaa-chauhan)** — `Next.js` `TypeScript` `Express.js` `MongoDB` `JWT` `Groq API`
+> Healthcare platform with patient/doctor/admin roles, JWT auth, 38 REST APIs, and 8 MongoDB models. Includes a 3-stage AI triage agent (Groq LLM) that classifies patient urgency, recommends specialists, and holds structured multi-turn conversations. Lighthouse: 95 Accessibility · 100 Best Practices · 91 SEO.
+
+**[Watcher](https://github.com/Radhikaa-chauhan)** — `Node.js` `Python` `Docker` `Redis Streams` `LangGraph` `AWS EC2`
+> AI-powered PR review system: an 8-detector weighted scoring pipeline plus a 6-node LangGraph workflow that auto-approves clean PRs and escalates uncertain ones to Llama 3.3-70B. Secured with HMAC-SHA256 webhook verification and custom HS256 JWT auth. Six Dockerized microservices communicating over Redis Streams, deployed on AWS EC2 behind an Nginx gateway.
+
+---
+
+### 🛠️ Tech Stack
+
 <p align="center">
-    <a href="https://github.com/">
-        <img src="https://komarev.com/ghpvc/?username=Radhikaa-chauhan" alt="Radhikaa-chauhan" />
-    </a>
-    <a href="https://github.com/Radhikaa-chauhan">
-    <img height="20" src="https://img.shields.io/github/followers/Radhikaa-chauhan?label=follow&logo=github" />
-	</a>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,nextjs,nodejs,express,html,css,postgres,mongodb,redis,docker,githubactions,aws,git,github,vercel&theme=dark" />
+</p>
+
+**Languages:** TypeScript · JavaScript · Python · C++
+**Frontend:** React.js · Next.js · HTML · CSS
+**Backend:** Node.js · Express.js · REST APIs · GraphQL
+**AI:** LangGraph · Groq API
+**Databases:** PostgreSQL · MongoDB · Redis
+**DevOps & Cloud:** Docker · GitHub Actions · AWS EC2 · Ubuntu · CI/CD
+**Tools:** Git · GitHub · Vercel · Netlify
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Radhikaa-chauhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikaa-chauhan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhikaa-chauhan&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhikaa-chauhan&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🏅 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@radhikaachauhan">
+    <img src="https://holopin.me/radhikaachauhan" alt="@radhikaachauhan's Holopin badges" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Radhikaa-chauhan&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Radhikaa-chauhan?label=Follow&style=social" />
+</p>
+
+<p align="center"><i>Open to AI engineering roles and internships — always happy to talk open source, LLM agents, or full-stack architecture.</i></p>
 	 <a href="https://github.com/Radhikaa-chauhan">
         <img height="20" src="https://img.shields.io/github/stars/Radhikaa-chauhan?label=stars&logo=github" />
 	</a>
